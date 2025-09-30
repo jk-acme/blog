@@ -1,12 +1,12 @@
-name: Your Blog
-tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+name: Jk-acme Marmite Blog
+tagline: Marmite Blog
+url: https://jk-acme.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Follow me", "https://mastodon.social/@jkrebian"]
+  - ["Github", "https://github.com/jk-acme/blog"]
 
 
 # More options available to customize the website
