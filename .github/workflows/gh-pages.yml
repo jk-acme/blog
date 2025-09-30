@@ -1,4 +1,4 @@
-name: GH Pages Deploy
+name: Deploy to Github Pages
 
 on:
   push:
@@ -40,5 +40,7 @@ jobs:
           path: 'site'
 
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
+        with: 
+          id: deployment
+          environment: github-pages
