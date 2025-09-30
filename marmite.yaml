@@ -1,6 +1,7 @@
 name: Jk-acme Marmite Blog
 tagline: Marmite Blog
 url: https://jk-acme.github.io/blog
+colorscheme: github
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
